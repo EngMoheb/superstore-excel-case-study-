@@ -1,4 +1,6 @@
 # Superstore Excel Case Study
+![Superstore Case Study Cover](Assets/Cover.jpg)  
+Photo by [Blake Wisz](https://unsplash.com/@blakewisz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/woman-holding-magnetic-card-q3o_8MteFM0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ## 📊 Project Overview
 This case study analyzes the **Superstore dataset (~10K rows)** using Excel to uncover insights about sales, profit, discounts, returns, and shipping speed.  
